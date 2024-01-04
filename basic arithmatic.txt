@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+int a; 
+int b; 
+float c;
+float d ; 
+a = 3; 
+b = 5; 
+c = 2; 
+d = 5 ; 
+printf("a + b = %d\n",a+b ) ; 
+printf("a - b = %d\n",a-b ); 
+printf("c / d = %f\n",c/d); 
+printf("c * d = %f\n"),c*d); 
+}
